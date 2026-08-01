@@ -24,7 +24,7 @@ const POSTS = [
       "What is achievement anyway? If it's a <5k rank in NEET, I'm sure as hell not making it. This time, at least. But, something in me is so restless. 29 days now. Could I just set myself a challenge to stick to this plan? To stick to something for once? Regardless of the outcome?"
       "Hence this blog."
       "I'll document my daily wins/losses/thoughts on here."
-      "Some might think it's a waste of time. But no, it might be the only thing keeping me true to myself." ,
+      "Some might think it's a waste of time. But no, it might be the only thing keeping me true to myself.",
     ],
   },
 ];
